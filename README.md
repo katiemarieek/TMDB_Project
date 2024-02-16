@@ -1,9 +1,9 @@
 ## TMBD Project
-### Exploratory Data Analysis using The Movie Data Base.
 Project conducted through the _Digital Futures Academy_.
 
-### Objective
-To load, clean, analyse and visualise the data taken from The Movie Data Base, in order to explore the relationship between movie budget and revenue generated.
+The aim of the project was to load, clean, analyse and visualise the data taken from The Movie Data Base, in order to practise the EDA skills learned during the Academy. Insights were drawn on the correlation between movie budget and revenue generated, and the nuances in this relationship.
+
+
 
 
 
